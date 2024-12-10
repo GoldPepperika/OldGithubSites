@@ -1,0 +1,49 @@
+/* Style Sheet for starklaxio.github.io */
+/* style.css */
+
+/* HTML and Body */
+html {
+    background-color: rgb(15, 0, 30);
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+/* End HTML and Body */
+
+/* Header and Footer */
+header {
+    font-size: 25px;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+}
+
+footer p {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+/* End Header and Footer */
+
+/* Art Section */
+.art-section {
+    border-bottom-style: dashed;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+}
+
+.as-img {
+    width: 200px;
+    height: 200px;
+}
+
+/* Links */
+a {
+    color: rgb(110, 0, 255);
+}
+
+a:hover {
+    color: rgb(175, 110, 255);
+}
